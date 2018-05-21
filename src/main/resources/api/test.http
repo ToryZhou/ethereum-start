@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Cache-Control: no-cache
+
+###
+GET /bestBlock HTTP/1.1
+Host: 127.0.0.1:8080
+Cache-Control: no-cache
+Postman-Token: 08dce105-6390-2c08-e67f-ff4f06387b95
+
+###

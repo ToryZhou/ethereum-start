@@ -1,3 +1,5 @@
 .idea
 ethereum-start.iml
 target/
+logs
+database
